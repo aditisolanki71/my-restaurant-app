@@ -1,0 +1,13 @@
+node -v --> v18.13.0(u use 18.17.0)
+npm -v  --> 8.19.3
+
+
+https://nextjs.org/docs/getting-started/installation
+
+>npx create-next-app@13.1.1 --experiment-app
+y
+my-restaurant-app
+yes(ts)
+no(eslint)
+
+>npm run dev
